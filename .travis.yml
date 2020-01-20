@@ -1,0 +1,13 @@
+language: node_js
+
+node_js:
+  - 12
+
+jobs:
+  include:
+    # Define the release stage that runs semantic-release
+    - stage: release
+      node_js: lts/*
+      deploy:
+        provider: script
+        script: npx semantic-release
