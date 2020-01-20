@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/pjchender/semantic-release-sandbox/compare/v1.3.0...v1.3.1) (2020-01-20)
+
+
+### Bug Fixes
+
+* **badge:** add badge ([2b0660b](https://github.com/pjchender/semantic-release-sandbox/commit/2b0660b3124539f371a5d008174e54065c33fb0d))
+
 # [1.3.0](https://github.com/pjchender/semantic-release-sandbox/compare/v1.2.0...v1.3.0) (2020-01-20)
 
 
