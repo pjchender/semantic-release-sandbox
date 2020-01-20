@@ -11,6 +11,7 @@
   "keywords": [],
   "description": "",
   "devDependencies": {
+    "@jedmao/semantic-release-npm-github-config": "^1.0.9",
     "@semantic-release/changelog": "^3.0.6",
     "@semantic-release/git": "^8.0.0",
     "@semantic-release/npm": "^6.0.0",
