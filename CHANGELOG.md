@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/pjchender/semantic-release-sandbox/compare/v1.1.10...v1.2.0) (2020-01-20)
+
+
+### Features
+
+* **pencil:** finish releaserc ([#1](https://github.com/pjchender/semantic-release-sandbox/issues/1)) ([a9b1211](https://github.com/pjchender/semantic-release-sandbox/commit/a9b1211f09542dbd7ce7d062245ffe804b734195))
+
 ## [1.1.10](https://github.com/pjchender/semantic-release-sandbox/compare/v1.1.9...v1.1.10) (2020-01-20)
 
 
