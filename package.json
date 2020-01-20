@@ -1,15 +1,21 @@
 {
   "name": "@pjchender/semantic-release-sandbox",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "semantic-release": "semantic-release"
   },
   "author": "",
   "license": "ISC",
   "keywords": [],
   "description": "",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "semantic-release": "^16.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pjchender/semantic-release-sandbox.git"
   }
 }
