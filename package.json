@@ -6,7 +6,6 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "pretest": "npm run build",
     "test": "jest",
     "semantic-release": "semantic-release"
   },
