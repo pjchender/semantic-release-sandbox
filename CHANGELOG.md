@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.1...v1.4.2) (2020-01-21)
+
+
+### Bug Fixes
+
+* **ci:** update travis ci(2) ([17a0a90](https://github.com/pjchender/semantic-release-sandbox/commit/17a0a90c451d45efbf794c2b2e471df08dbb72dc))
+
 ## [1.4.1](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.0...v1.4.1) (2020-01-21)
 
 
