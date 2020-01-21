@@ -1,14 +1,14 @@
-language: node_js
+# language: node_js
 
-node_js:
-  - 12
+# node_js:
+#   - 12
 
-jobs:
-  include:
-    - stage: release
-      script: npm run build
-      node_js: lts/*
-      deploy:
-        provider: script
-        script: npx -p @semantic-release/changelog -p @semantic-release/git -p semantic-release semantic-release
-        skip_cleanup: true
+# jobs:
+#   include:
+#     - stage: release
+#       node_js: lts/*
+#       script: npm run build
+#       deploy:
+#         provider: script
+#         script: npx -p @semantic-release/changelog -p @semantic-release/git -p semantic-release semantic-release
+#         skip_cleanup: true
