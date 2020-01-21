@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/pjchender/semantic-release-sandbox/compare/v1.3.1...v1.4.0) (2020-01-21)
+
+
+### Features
+
+* Add rollup for bundle ([d5a4ebc](https://github.com/pjchender/semantic-release-sandbox/commit/d5a4ebc551ca93ccddef5cc99b67de7264eedb32))
+
 ## [1.3.1](https://github.com/pjchender/semantic-release-sandbox/compare/v1.3.0...v1.3.1) (2020-01-20)
 
 
