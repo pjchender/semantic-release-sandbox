@@ -11,3 +11,4 @@ jobs:
       deploy:
         provider: script
         script: npx -p @semantic-release/changelog -p @semantic-release/git -p semantic-release semantic-release
+        skip_cleanup: true
