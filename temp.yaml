@@ -2,16 +2,13 @@ language: node_js
 
 node_js:
   - 12
-before_install:
-- npm install --global @semantic-release/changelog @semantic-release/git
-
-install: npm install
 
 jobs:
   include:
-    # Define the release stage that runs semantic-release
     - stage: release
+      script: npm run build
       node_js: lts/*
       deploy:
         provider: script
-        script: npx -p @semantic-release/changelog semantic-release
+        script: npx -p @semantic-release/changelog -p @semantic-release/git -p semantic-release semantic-release
+        skip_cleanup: true
