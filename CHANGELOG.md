@@ -1,3 +1,10 @@
+## [1.4.8](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.7...v1.4.8) (2020-01-31)
+
+
+### Bug Fixes
+
+* add coveralls ([d3db419](https://github.com/pjchender/semantic-release-sandbox/commit/d3db4199df934bc6d6944bf98d06beb11c5cba9d))
+
 ## [1.4.7](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.6...v1.4.7) (2020-01-21)
 
 
