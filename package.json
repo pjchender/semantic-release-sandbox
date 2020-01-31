@@ -7,6 +7,7 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "test": "jest",
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls",
     "semantic-release": "semantic-release"
   },
   "author": "",
@@ -16,11 +17,12 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.1",
     "@rollup/plugin-node-resolve": "^7.0.0",
-    "rollup": "^1.29.0",
     "@semantic-release/changelog": "^3.0.6",
     "@semantic-release/git": "^8.0.0",
     "@semantic-release/npm": "^6.0.0",
+    "coveralls": "^3.0.9",
     "jest": "^24.9.0",
+    "rollup": "^1.29.0",
     "semantic-release": "^16.0.2"
   },
   "files": [

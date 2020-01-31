@@ -5,6 +5,9 @@ node_js:
 
 jobs:
   include:
+    - stage: Produce Coverage
+      node_js: node
+      script: npm run coveralls
     - stage: release
       node_js: lts/*
       script: npm run build
