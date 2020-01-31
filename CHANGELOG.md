@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.8...v1.4.9) (2020-01-31)
+
+
+### Bug Fixes
+
+* add coveralls badge and update README ([4536136](https://github.com/pjchender/semantic-release-sandbox/commit/4536136ee7375cc39c6809cc566a500772862ea5))
+
 ## [1.4.8](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.7...v1.4.8) (2020-01-31)
 
 
