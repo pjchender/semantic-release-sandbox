@@ -1,3 +1,10 @@
+## [1.4.10](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.9...v1.4.10) (2020-02-03)
+
+
+### Bug Fixes
+
+* add rollup-plugin-terser for minifing bundle files ([dc0f5ed](https://github.com/pjchender/semantic-release-sandbox/commit/dc0f5ed250b375fce9224e6d8be77db1cc88093f))
+
 ## [1.4.9](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.8...v1.4.9) (2020-01-31)
 
 
