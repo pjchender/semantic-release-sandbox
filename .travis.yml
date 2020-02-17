@@ -5,12 +5,12 @@ node_js:
 
 jobs:
   include:
-    - stage: Produce Coverage
-      node_js: node
-      script: npm run coveralls
+    # - stage: Produce Coverage
+    #   node_js: node
+    #   script: npm run coveralls
     - stage: release
       node_js: lts/*
-      script: npm run build
+      # script: npm run build
       deploy:
         provider: script
         script: npx -p @semantic-release/changelog -p @semantic-release/git -p semantic-release semantic-release
