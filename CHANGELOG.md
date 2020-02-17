@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.11...v1.4.12) (2020-02-17)
+
+
+### Bug Fixes
+
+* change back with build script ([c2fbee4](https://github.com/pjchender/semantic-release-sandbox/commit/c2fbee460aff99f78e2e7e5d17a784569347073e))
+
 ## [1.4.11](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.10...v1.4.11) (2020-02-17)
 
 
