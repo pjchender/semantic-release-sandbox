@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.12...v1.4.13) (2020-02-17)
+
+
+### Bug Fixes
+
+* ignore skip_cleanup options ([124335b](https://github.com/pjchender/semantic-release-sandbox/commit/124335b76bd493b8ff728e5a0a0eca141415fb24))
+
 ## [1.4.12](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.11...v1.4.12) (2020-02-17)
 
 

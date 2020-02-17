@@ -1,6 +1,6 @@
 {
   "name": "@pjchender/semantic-release-sandbox",
-  "version": "1.4.12",
+  "version": "1.4.13",
   "main": "dist/index.cjs.min.js",
   "module": "dist/index.esm.min.js",
   "scripts": {
