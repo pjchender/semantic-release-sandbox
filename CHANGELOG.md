@@ -1,3 +1,10 @@
+## [1.4.11](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.10...v1.4.11) (2020-02-17)
+
+
+### Bug Fixes
+
+* test to run semantic-release without build script ([d431517](https://github.com/pjchender/semantic-release-sandbox/commit/d431517245585f36327d005b6ec73b7f8432e304))
+
 ## [1.4.10](https://github.com/pjchender/semantic-release-sandbox/compare/v1.4.9...v1.4.10) (2020-02-03)
 
 
